@@ -1,6 +1,8 @@
 # pariwisata
-
+registrasi:
 ![Screenshot 2024-10-18 175245](https://github.com/user-attachments/assets/3e354635-7131-46d4-9c3f-82fc5b1aca8f)
+
+berhasil regist:
 ![Screenshot 2024-10-18 175300](https://github.com/user-attachments/assets/89edfeb9-1bad-436c-8324-360f147faeb7)
 ![Screenshot 2024-10-18 175327](https://github.com/user-attachments/assets/b9773100-8efc-4db6-a2d7-0e5814c136cf)
 ![Screenshot 2024-10-18 175342](https://github.com/user-attachments/assets/a43a1053-7146-471a-a103-c88c1c5ece64)
